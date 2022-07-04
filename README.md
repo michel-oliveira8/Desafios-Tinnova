@@ -10,7 +10,7 @@
 
 ### Entre na pasta do repositório que você acabou de clonar:
  
- - `cd Desafios-Tinnova.git`
+ - `cd Desafios-Tinnova`
   
 ### Desafio 1: 
 
