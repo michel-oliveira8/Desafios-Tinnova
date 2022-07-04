@@ -39,7 +39,7 @@
 
  #### Algoritimo de ordenção BubbleSort:
  
-  Array = [5,3,2,7,1,0,6]
+      Array = [5,3,2,7,1,0,6]
   
   Realizado um algorítimo que ordene o vetor utilizando o Bubble Sort.
   
