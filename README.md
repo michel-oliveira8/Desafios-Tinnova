@@ -38,10 +38,8 @@
   - arquivo `bubbleSort.js`
 
  #### Algoritimo de ordenção BubbleSort:
- 
-      Array = [5,3,2,7,1,0,6]
   
-  Realizado um algorítimo que ordene o vetor utilizando o Bubble Sort.
+  Realizado um algorítimo que ordene um array utilizando o Bubble Sort.
   
  ### Desafio 3:
  
