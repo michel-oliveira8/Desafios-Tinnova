@@ -55,4 +55,8 @@ realizado um programa que calcule o fatorial de um número qualquer.
 
  #### Soma dos múltiplos de 3 ou 5:
  
-Realizado uma implementação que realiza a soma de todos os números que sejam multiplos de 3 ou 5. 
+Realizado uma implementação que realiza a soma de todos os números que sejam multiplos de 3 ou 5.
+
+## Para testar os desafios:
+
+Chame a função, passando o parâmetro que desejar, e rode no terminal `node nomeDoArquivo.js`
